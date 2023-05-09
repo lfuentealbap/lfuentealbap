@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola mundo! ✌️ 
+### Mi nombre es **Luis Fuentealba** y te doy la bienvenida a mi perfil de github! 🤗
 
-<!--
-**lfuentealbap/lfuentealbap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Acerca de mi:
+- 👨‍🎓 Soy Ingeniero en Computación e Informática, titulado de la Universidad del Bío-Bio en enero del 2023.
+- 🔎 Actualmente me encuentro en búsqueda activa de empleo.
+- 🖥️ Soy un desarrollador full-stack, programo en el lado de backend y frontend, me gusta la versatilidad 😎. 
+- 👨‍💻 Ahora si bien no estoy trabajando, me dedico a reforzar mis conocimientos, a mejorar las prácticas de programación y aprender cosas nuevas para aplicarlos en proyectos personales✨
+
+------------
