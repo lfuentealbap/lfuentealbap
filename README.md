@@ -27,8 +27,8 @@ Soy un Ingeniero de Ejecución en Computación e Informática con conocimientos 
 | Angular    |
 
 ### Herramientas y librerías
-| Tecnología | Enlace al logotipo |
-|------------|-------------|
+| Tecnología |
+|------------|
 | Android Studio |
 | Bootstrap  |
 | Material UI |
