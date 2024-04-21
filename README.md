@@ -4,39 +4,7 @@
 >>>>>>>>>>>>>>>>>>>>>
 
 
-Soy un Ingeniero de Ejecución en Computación e Informática con conocimientos en varios lenguajes de programación y marcos de trabajo. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades.
-
-## 🛠 Habilidades
-
-### Lenguajes de programación
-| Tecnología | 
-|------------|
-| Java       | 
-| JavaScript | 
-| PHP        | 
-| C#         |
-
-### Marcos de trabajo
-| Tecnología |
-|------------|
-| Laravel    |
-| React      |
-| React Native |
-| Spring Boot |
-| Vue.js     |
-| Angular    |
-
-### Herramientas y librerías
-| Tecnología |
-|------------|
-| Android Studio |
-| Bootstrap  |
-| Material UI |
+Soy un Ingeniero de Ejecución en Computación e Informática con conocimientos en varios lenguajes de programación y me gusta aportar con soluciones digitales que resuelvan problemas en la vida diaria de las personas.
+Actualmente me encuentro trabajando para NTT Data Chile :D
 
 
-
-## 📫 Cómo contactarme
-
-Puedes contactarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/lfuentealbap/)
-
-¡Espero contribuir y aprender de la comunidad de GitHub!
